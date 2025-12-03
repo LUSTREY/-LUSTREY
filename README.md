@@ -27,6 +27,4 @@
   <br/>
 
   ## 💪🏼 Tools
-  <!--VScode-->
-  <img src="https://img.shields.io/badge/VScode#F80ED?style=flat-square&logo=VScode&logoColor=white"/>
   <br/>
