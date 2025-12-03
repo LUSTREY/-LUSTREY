@@ -14,16 +14,19 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 🛠️ Stacks
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat-square&logo=JAVA&logoColor=white"/>
   <!--C-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <!--C#-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <br/>
+
+  ## 💪🏼 Tools
+  <!--VScode-->
+  <img src="https://img.shields.io/badge/VScode#F80ED?style=flat-square&logo=VScode&logoColor=white"/>
   <br/>
